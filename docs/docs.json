@@ -894,7 +894,6 @@
                 "pages": [
                   "vps",
                   "install/kubernetes",
-                  "install/ios-managed-app",
                   "install/fly",
                   "install/hetzner",
                   "install/gcp",
