@@ -140,4 +140,4 @@ OpenClaw pod reloads config  →  MISTRAL_API_KEY available
 ## Related docs
 
 - [Mistral provider (OpenClaw)](/providers/mistral)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

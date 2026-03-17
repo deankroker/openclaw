@@ -181,4 +181,4 @@ Users can always add per-provider keys later for cost optimization or feature ac
 ## Related docs
 
 - [OpenRouter provider (OpenClaw)](/providers/openrouter)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

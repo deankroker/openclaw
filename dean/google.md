@@ -228,4 +228,4 @@ to refresh the access token on startup.
 
 ## Related docs
 
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

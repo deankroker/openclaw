@@ -235,4 +235,4 @@ Copilot token exchange automatically on each session start.
 ## Related docs
 
 - [GitHub Copilot provider (OpenClaw)](/providers/github-copilot)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

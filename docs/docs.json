@@ -1208,22 +1208,6 @@
                                     "platforms/mac/skills",
                                     "platforms/mac/peekaboo"
                                 ]
-                            },
-                            {
-                                "group": "iOS managed app: provider quick connect",
-                                "pages": [
-                                    "ios/index",
-                                    "ios/anthropic",
-                                    "ios/openai",
-                                    "ios/google",
-                                    "ios/github-copilot",
-                                    "ios/mistral",
-                                    "ios/openrouter",
-                                    "ios/together",
-                                    "ios/huggingface",
-                                    "ios/xai",
-                                    "ios/perplexity"
-                                ]
                             }
                         ]
                     },

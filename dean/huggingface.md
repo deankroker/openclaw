@@ -135,4 +135,4 @@ OpenClaw pod reloads config  →  HUGGINGFACE_HUB_TOKEN available
 ## Related docs
 
 - [Hugging Face provider (OpenClaw)](/providers/huggingface)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

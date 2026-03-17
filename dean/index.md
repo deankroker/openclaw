@@ -165,13 +165,13 @@ Deep links should use Universal Links (`https://`) in production to prevent sche
 
 ## Per-provider docs
 
-- [Anthropic (Claude)](/ios/anthropic)
-- [OpenAI (GPT / Codex)](/ios/openai)
-- [Google (Gemini)](/ios/google)
-- [GitHub Copilot](/ios/github-copilot)
-- [Mistral](/ios/mistral)
-- [OpenRouter](/ios/openrouter)
-- [Together AI](/ios/together)
-- [Hugging Face](/ios/huggingface)
-- [xAI (Grok)](/ios/xai)
-- [Perplexity](/ios/perplexity)
+- [Anthropic (Claude)](./anthropic.md)
+- [OpenAI (GPT / Codex)](./openai.md)
+- [Google (Gemini)](./google.md)
+- [GitHub Copilot](./github-copilot.md)
+- [Mistral](./mistral.md)
+- [OpenRouter](./openrouter.md)
+- [Together AI](./together.md)
+- [Hugging Face](./huggingface.md)
+- [xAI (Grok)](./xai.md)
+- [Perplexity](./perplexity.md)

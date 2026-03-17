@@ -77,7 +77,7 @@ app can redirect users to directly.
 
 If Anthropic publishes an official iOS SDK or a public OAuth authorization endpoint in the
 future, the implementation would follow the standard PKCE pattern using
-`ASWebAuthenticationSession` (see the [Quick Connect overview](/ios)).
+`ASWebAuthenticationSession` (see the [Quick Connect overview](./index.md)).
 
 **Current recommendation**: Use Option A (API key) or Option D (setup-token relay) for
 subscription users until Anthropic provides a first-party mobile OAuth flow.
@@ -171,4 +171,4 @@ OpenClaw pod reloads config  →  ANTHROPIC_API_KEY available
 ## Related docs
 
 - [Anthropic provider (OpenClaw)](/providers/anthropic)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

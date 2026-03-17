@@ -137,4 +137,4 @@ OpenClaw pod reloads config  →  TOGETHER_API_KEY available
 ## Related docs
 
 - [Together AI provider (OpenClaw)](/providers/together)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

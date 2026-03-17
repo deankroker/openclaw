@@ -142,4 +142,4 @@ OpenClaw pod reloads config  →  XAI_API_KEY available
 
 ## Related docs
 
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

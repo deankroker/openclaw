@@ -146,4 +146,4 @@ OpenClaw pod reloads config  →  PERPLEXITY_API_KEY available
 ## Related docs
 
 - [Perplexity tool (OpenClaw)](/perplexity)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)

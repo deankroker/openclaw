@@ -234,4 +234,4 @@ For Codex subscription, write `OPENAI_CODEX_TOKEN` (or the appropriate env var) 
 ## Related docs
 
 - [OpenAI provider (OpenClaw)](/providers/openai)
-- [iOS Quick Connect overview](/ios)
+- [iOS Quick Connect overview](./index.md)
