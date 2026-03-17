@@ -223,4 +223,4 @@ registers a unique webhook URL with Google Chat so messages route to the correct
 
 - [Google Chat channel](/channels/googlechat) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

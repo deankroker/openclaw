@@ -1208,21 +1208,6 @@
                   "platforms/mac/skills",
                   "platforms/mac/peekaboo"
                 ]
-              },
-              {
-                "group": "iOS Quick Connect",
-                "pages": [
-                  "ios-quickconnect/index",
-                  "ios-quickconnect/telegram",
-                  "ios-quickconnect/discord",
-                  "ios-quickconnect/whatsapp",
-                  "ios-quickconnect/slack",
-                  "ios-quickconnect/signal",
-                  "ios-quickconnect/imessage",
-                  "ios-quickconnect/matrix",
-                  "ios-quickconnect/msteams",
-                  "ios-quickconnect/googlechat"
-                ]
               }
             ]
           },

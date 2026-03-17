@@ -224,4 +224,4 @@ data path (`/root/.local/share/signal-cli`), which is mounted on the Azure Files
 
 - [Signal channel](/channels/signal) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

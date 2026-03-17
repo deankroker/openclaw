@@ -196,4 +196,4 @@ func resolveHomeserver(from matrixId: String) async throws -> String {
 
 - [Matrix channel](/channels/matrix) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

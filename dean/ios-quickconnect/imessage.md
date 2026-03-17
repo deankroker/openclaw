@@ -176,4 +176,4 @@ troubleshoot connectivity issues before saving.
 - [BlueBubbles channel](/channels/bluebubbles) — full channel reference
 - [iMessage (legacy)](/channels/imessage) — deprecated legacy integration
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

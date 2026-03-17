@@ -208,4 +208,4 @@ func pollWhatsAppStatus() async throws -> Bool {
 
 - [WhatsApp channel](/channels/whatsapp) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

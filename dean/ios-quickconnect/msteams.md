@@ -220,4 +220,4 @@ clipboard or shares it via the iOS share sheet.
 
 - [Microsoft Teams channel](/channels/msteams) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

@@ -42,15 +42,15 @@ connection, then sends it to the container over the secure file-api endpoint.
 
 | Provider | Best pattern | Complexity | In-app OAuth? |
 | --- | --- | --- | --- |
-| [Telegram](/ios-quickconnect/telegram) | Paste bot token | Low | No |
-| [Discord](/ios-quickconnect/discord) | Paste bot token + guild ID | Low | Optional |
-| [WhatsApp](/ios-quickconnect/whatsapp) | QR code scan via WebView | Medium | No |
-| [Slack](/ios-quickconnect/slack) | OAuth install flow (ASWebAuthenticationSession) | Medium | Yes |
-| [Signal](/ios-quickconnect/signal) | Phone number + SMS code | Medium | No |
-| [iMessage (BlueBubbles)](/ios-quickconnect/imessage) | BlueBubbles server URL + password | Medium | No |
-| [Matrix](/ios-quickconnect/matrix) | Access token or password login | Low–Medium | Optional |
-| [Microsoft Teams](/ios-quickconnect/msteams) | Azure AD OAuth (enterprise SSO) | High | Yes |
-| [Google Chat](/ios-quickconnect/googlechat) | Service account JSON or OAuth | High | Yes |
+| [Telegram](/dean/ios-quickconnect/telegram) | Paste bot token | Low | No |
+| [Discord](/dean/ios-quickconnect/discord) | Paste bot token + guild ID | Low | Optional |
+| [WhatsApp](/dean/ios-quickconnect/whatsapp) | QR code scan via WebView | Medium | No |
+| [Slack](/dean/ios-quickconnect/slack) | OAuth install flow (ASWebAuthenticationSession) | Medium | Yes |
+| [Signal](/dean/ios-quickconnect/signal) | Phone number + SMS code | Medium | No |
+| [iMessage (BlueBubbles)](/dean/ios-quickconnect/imessage) | BlueBubbles server URL + password | Medium | No |
+| [Matrix](/dean/ios-quickconnect/matrix) | Access token or password login | Low–Medium | Optional |
+| [Microsoft Teams](/dean/ios-quickconnect/msteams) | Azure AD OAuth (enterprise SSO) | High | Yes |
+| [Google Chat](/dean/ios-quickconnect/googlechat) | Service account JSON or OAuth | High | Yes |
 
 ## Shared infrastructure
 

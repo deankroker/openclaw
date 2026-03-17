@@ -175,4 +175,4 @@ Set `dmPolicy` to `pairing` as the default for managed deployments. Users can up
 
 - [Telegram channel](/channels/telegram) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

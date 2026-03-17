@@ -200,4 +200,4 @@ func validateSlackToken(_ botToken: String) async throws -> SlackTeamInfo {
 
 - [Slack channel](/channels/slack) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)

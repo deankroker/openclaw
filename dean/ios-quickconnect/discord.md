@@ -223,4 +223,4 @@ smoothest experience. Option A remains useful as a fallback for users who alread
 
 - [Discord channel](/channels/discord) — full channel reference
 - [Pairing](/channels/pairing) — DM pairing flow
-- [iOS Quick Connect overview](/ios-quickconnect)
+- [iOS Quick Connect overview](/dean/ios-quickconnect)
