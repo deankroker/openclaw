@@ -59,7 +59,9 @@ Goal: viral reach, trend amplification, and conversion to $19.99/month subscript
 
 ### 4. "The $20/Month AI That Is Actually Yours"
 
-**Why it works:** Direct price anchoring against ChatGPT Plus ($20) and Claude Pro ($20). Same price, fundamentally different product.
+**Why it works:** Direct price anchoring against ChatGPT Plus and Claude Pro at similar price points. Same tier, fundamentally different product.
+
+> **Note:** Verify current competitor pricing before publishing any comparison. Prices shown here reflect Q1 2026 rates and may shift.
 
 > You already pay $20/month for AI. But do you get your own container? Your own storage? A workspace that persists? Probably not. OpenClaw, $19.99/month.
 
@@ -204,7 +206,7 @@ When people debate whether AI apps are "just wrappers":
 | 5 | Build in public | X + LinkedIn | Metrics/decisions share |
 | 6 | Trend reaction | All | Reactive to news cycle |
 
-Repeat and rotate. Prioritize reactivity — when a trend aligns with messaging pillars 1, 4, or 7, drop everything and post within 2 hours.
+Repeat and rotate. Prioritize reactivity — when a trend aligns with messaging pillars 1, 4, or 7, deprioritize planned content in favor of trend-aligned messaging. Review all reactive posts for accuracy and tone before publishing.
 
 ---
 
